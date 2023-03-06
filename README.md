@@ -1,5 +1,47 @@
-# 01 HTML, CSS, and Git: Code Refactor
+# <Refactoring-html-css>
 
+## What Is This?:
+
+In my journey to becoming a legitimate coder/develope, this is the first graded project for the coding bootcamp I am attending.  In this challenge we were given some working starter code and I completed the following: 
+
+* **HTML elements**: Made changes to HTML to ensure that when the source code is viewed that all semantic HTML elements can be identified and they follow a logical structure independent of styling and positioning.
+
+* **Icon and Image elements**: Added accessible alt attributes to icon and image elements.
+
+* **Heading attributes**: Ordered heading attributes in sequential order.
+
+* **Title**: Added a concise descriptive title
+
+## Purpose of This Work:
+
+Accessibility is improved by the changes made to the html and css files. By completing this challenge I was able improve my understanding of html and css syntax and implement learnings from the past week and hone my resource finding skills.
+
+## Usage:
+
+If you would like to view the live webpage please [click here](https://rikilega.github.io/refactoring-html-css/).
+Html code is found [here](https://github.com/rikilega/refactoring-html-css/blob/main/index.html) and the css [here](https://github.com/rikilega/refactoring-html-css/blob/main/assets/css/style.css).
+
+
+
+
+
+
+
+* **
+WHEN I view the source code
+THEN I find semantic HTML elements
+WHEN I view the structure of the HTML elements
+THEN I find that the elements follow a logical structure independent of styling and positioning
+WHEN I view the icon and image elements
+THEN I find accessible alt attributes
+WHEN I view the heading attributes
+THEN they fall in sequential order
+WHEN I view the title element
+THEN I find a concise, descriptive title
+- What was your motivation?
+- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
+- What problem does it solve?
+- What did you learn? 
 ## Challenges in This Course
 
 There are two types of Challenges in this course. Each one is designed to prepare you for a scenario that you're likely to encounter as a web developer.
