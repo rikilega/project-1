@@ -1,4 +1,4 @@
-# Refactoring-html-css
+<h1 style="text-align: center;"># Refactoring-html-css</h1>
 
 ## What Is This?:
 
@@ -14,7 +14,7 @@ In my journey to becoming a legitimate coder/develope, this is the first graded 
 
 ## Purpose of This Work:
 
-Accessibility is improved by the changes made to the html and css files. By completing this challenge I was able improve my understanding of html and css syntax and implement learnings from the past week and hone my resource finding skills.
+Accessibility is improved by the changes made to the html and css files. By completing this challenge I was able improve my understanding of html and css syntax, implement learnings from the past week and hone my resource finding skills.
 
 ## Usage:
 
