@@ -62,7 +62,7 @@ header nav ul li {
     background-position: center;
 }
 
-/*Content*/
+/*Main Content*/
 main {
     width: 70%;
     display: inline-block;
@@ -98,7 +98,7 @@ main {
     margin-left: 25px;
 }
 
-/* Benefits */
+/* Side Content */
 aside{
     margin-right: 20px;
     padding: 20px;
