@@ -23,6 +23,7 @@ Accessibility is improved by the changes made to the html and css files. By comp
 ## Usage:
 
 If you would like to view the live webpage please [click here](https://rikilega.github.io/refactoring-html-css/).
-![HORISEON Screenshot](https://github.com/rikilega/refactoring-html-css/blob/main/assets/images/horiseon-screenshot.PNG =640x)
+
+HORISEON Screenshot<img src="https://github.com/rikilega/refactoring-html-css/blob/main/assets/images/horiseon-screenshot.PNG" width="640px">
 
 Html code is found [here](https://github.com/rikilega/refactoring-html-css/blob/main/index.html) and the css [here](https://github.com/rikilega/refactoring-html-css/blob/main/assets/css/style.css).
