@@ -6,7 +6,7 @@
 
 ## What Is This?:
 
-In my journey to becoming a legitimate coder/develope, this is the first graded project for the coding bootcamp I am attending.  In this challenge we were given some working starter code and I completed the following: 
+In my journey to becoming a legitimate coder/developer, this is the first graded project for the coding bootcamp I am attending. In this challenge we were given some working starter code and I completed the following: 
 
 * **HTML elements**: Made changes to HTML to ensure that when the source code is viewed that all semantic HTML elements can be identified and they follow a logical structure independent of styling and positioning.
 
