@@ -14,7 +14,7 @@ In my journey to becoming a legitimate coder/developer, this is the first graded
 
 * **Heading attributes**: Ordered heading attributes in sequential order.
 
-* **Title**: Added a concise descriptive title
+* **Title**: Added a concise descriptive title.
 
 ## Purpose of This Work:
 
